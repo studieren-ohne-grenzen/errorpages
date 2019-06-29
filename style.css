@@ -1,0 +1,25 @@
+body {
+				background-color: #ffffff;
+				margin: 0px;
+				overflow: hidden;
+				font-family:Monospace;
+				font-size:13px;
+				text-align:center;
+				text-align:center;
+				cursor: pointer;
+			}
+
+			a {
+				color:#0078ff;
+			}
+
+.content {
+	position:absolute;
+	top: 48%;
+  left: 40%;
+  width: 20%;
+  padding: 25px;
+  min-width: 200px;
+  background: rgba(255,255,255,0.9);
+  font-style: sans-serif;
+}
