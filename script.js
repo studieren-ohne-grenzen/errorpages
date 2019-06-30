@@ -4,7 +4,7 @@ import fragmentShaderPosition from './bird_position_shader.glsl.js';
 import fragmentShaderVelocity from './bird_velocity_shader.glsl.js';
 
 /* TEXTURE WIDTH FOR SIMULATION */
-var WIDTH = 32;
+var WIDTH = 8;
 
 var BIRDS = WIDTH * WIDTH;
 
